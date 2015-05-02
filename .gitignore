@@ -4,7 +4,8 @@
 .sass-cache/
 bower_components
 node_modules
-dist
+dist/demos
+dist/docs
 /src/themes/_default-theme.scss
 
 /.idea/
